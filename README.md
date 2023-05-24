@@ -6,8 +6,9 @@
 from gpt_web_api import *
 gpt = gpt_web_api()
 a1 = gpt.get("haha",mode = 4)
-``
+```
 其中,mode可以选3.5,也可以选4
+
 
 # 项目用途
 1. 可以作为AUTOGPT的驱动程序,见[Auto_GPT_by_browser](https://github.com/xiahan4956/Auto_GPT_by_browser)
